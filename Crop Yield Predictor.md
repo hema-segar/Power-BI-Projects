@@ -68,4 +68,9 @@ The data was sourced from The Food and Agriculture Organisation of the United Na
 ![Page 4](https://github.com/user-attachments/assets/9298f3ce-e4fb-42f7-a721-33d6ce5a3049)
 
 
+[Power-BI-Projects Main Page](https://github.com/hema-segar/Power-BI-Projects/tree/main)
+[SQL-Projects Main Page](https://github.com/hema-segar/SQL-Projects)
+[Excel Analysis Projects](https://github.com/hema-segar/SQL-Projects)
+[Python Projects](https://github.com/hema-segar/Python-Projects)
+
 
