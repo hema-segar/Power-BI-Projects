@@ -1,8 +1,7 @@
-# Project Title
+# Crop Yield Predictor
 
 **Project Description:**  
-A brief description of the project. Explain the business problem it solves or the insights it provides. Mention the tools used and why they are suitable for this project.
-
+This project aims to predict crop yields based on historical data and environmental factors. It helps farmers and agricultural businesses optimize crop planning, manage resources efficiently, and make data-driven decisions. The tool uses machine learning algorithms to forecast yields, taking into account various inputs such as temperature, precipitation, and soil quality. Python was used to build the predictive model, leveraging libraries like scikit-learn for modeling, pandas for data manipulation, and matplotlib for visualizations.
 ---
 
 ## Table of Contents
